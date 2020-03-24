@@ -1,6 +1,6 @@
 # The DUNE Convolutional Visual Network for neutrino interaction classification
 
-This software is provided as a minimal working example of the DUNE Convolutional Neural Network (CVN) as supplemental material to the article "Neutrino interaction classification with the DUNE Convolutional Visual Network" <insert reference when available>. See the [LICENSE file](LICENSE) for the copyright notice and usage options.
+This software is provided as a minimal working example of the DUNE Convolutional Neural Network (CVN) as supplemental material to the article "**Neutrino interaction classification with the DUNE Convolutional Visual Network**" \<insert reference when available\>. See the [LICENSE file](LICENSE) for the copyright notice and usage options.
 
 1. [Introduction to the CVN](#intro)
 2. [Usage instructions](#usage)
