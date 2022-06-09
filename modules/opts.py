@@ -22,6 +22,7 @@ def get_args():
     arg('--shuffle', type=lambda x: (str(x).lower() == 'true'), default=False, help='Shuffle partition')
     arg('--print_model', type=lambda x: (str(x).lower() == 'true'), default=False, help='Print model summary')
     arg('--output_file', type=str, default='output/results.txt', help='Output file')
+    arg('--isvd', type=bool, default=False, help='Use the VD CVN Model?')
     args = parser.parse_args()
 
     return args
