@@ -17,6 +17,7 @@ import os
 
 sys.path.append(os.path.join(sys.path[0], 'modules'))
 sys.path.append(os.path.join('/content/dune-cvn', 'modules'))
+sys.path.append(os.path.join('.', 'modules'))
 
 from tensorflow.keras.models import model_from_json
 from sklearn.metrics import classification_report, confusion_matrix
